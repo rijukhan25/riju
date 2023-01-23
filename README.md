@@ -1,1 +1,2 @@
-# riju
+# cd riju
+python rijuby.py
